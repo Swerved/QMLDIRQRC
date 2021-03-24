@@ -1,0 +1,2 @@
+# QMLDIRQRC
+Qmldirqrc Tool
